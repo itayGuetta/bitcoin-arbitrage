@@ -66,7 +66,7 @@ Run tests
 * List supported public markets:
       $ python3 arbitrage.py list-public-markets
 * Help
-      $ python3 arbitrage.py -h
+      $ python3 arbitrage/arbitrage.py -h
 
 # TODO
 
